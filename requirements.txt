@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+beautifulsoup4
+selenium
+pytrends
+prophet
+requests
+tqdm
+transformers
+torch
